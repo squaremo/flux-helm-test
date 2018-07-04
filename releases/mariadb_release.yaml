@@ -11,5 +11,7 @@ spec:
   values:
     mariadb:
       image: bitnami/mariadb:10.2-master
+    sidecar:
+      image: weaveworks/sidecar:0.1
     persistence:
       enabled: false
