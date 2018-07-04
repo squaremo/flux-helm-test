@@ -6,6 +6,8 @@ metadata:
   namespace: test
   labels:
     chart: mariadb
+  annotations:
+    flux.weave.works/automated: 'true'
 spec:
   chartGitPath: mariadb
   values:
