@@ -12,7 +12,7 @@ spec:
   chartGitPath: mongodb
   releaseName: mongodb-database
   values:
-    image: bitnami/mongodb:3.6.5-r35
+    image: bitnami/mongodb:3.6-ol-7-master
     imagePullPolicy: IfNotPresent
     persistence:
       enabled: false
