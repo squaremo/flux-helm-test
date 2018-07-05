@@ -2,7 +2,7 @@
 apiVersion: helm.integrations.flux.weave.works/v1alpha2
 kind: FluxHelmRelease
 metadata:
-  name: mariadb
+  name: maria.db
   namespace: test
   labels:
     chart: mariadb
