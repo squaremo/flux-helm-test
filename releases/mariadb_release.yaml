@@ -12,7 +12,7 @@ spec:
   chartGitPath: mariadb
   values:
     mariadb:
-      image: bitnami/mariadb:10.1-debian-9
+      image: bitnami/mariadb:10.1-debian-8-master
     sidecar:
       image: weaveworks/sidecar:0.1
     persistence:
