@@ -50,4 +50,4 @@ tolerations: []
 
 affinity: {}
 
-logLevel: debug
+logLevel: info
