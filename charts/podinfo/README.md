@@ -1,7 +1,7 @@
 # Podinfo
 
-Podinfo is a tiny web application made with Go 
-that showcases best practices of running microservices in Kubernetes.
+Podinfo is a tiny web application made with Go that showcases best
+practices of running microservices in Kubernetes.
 
 ## Installing the Chart
 
